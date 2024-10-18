@@ -1,12 +1,12 @@
-# CPSC 224 Final Project: [Your project name here]
+# CPSC 224 Final Project: Bait and Switch
 
 ### Project Description:
 
 
 ### Team Information:
 
-- Team Name:  
-- Students on team:
-- Semester: Spring 2024
+- Team Name: Bait and Switch
+- Students on team: Crandall
+- Semester: Fall 2024
 
 
